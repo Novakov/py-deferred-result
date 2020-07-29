@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="deferred_result",
-    version="0.1.0",
+    version="0.1.1",
     author="Maciej Nowak",
     description="Simple DeferredResult",
     long_description=long_description,
